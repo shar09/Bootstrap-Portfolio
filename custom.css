@@ -1,0 +1,60 @@
+body {
+    background-image: url("images/email-pattern.png");
+}
+
+.header {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 16px;
+    margin: -8px 150px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.navbar {
+background-color: #ffffff;
+border-bottom: 3px solid;
+border-color: #cccccc;
+}
+
+.nav-link {
+    color: #777777; 
+    
+}
+
+.nav {
+    margin: 0px 70px;
+}  
+
+h3 {
+    color: #4aaaa5;
+}
+
+.work {
+    position: relative;
+  }
+  
+  .work:nth-child(even) {
+    margin-right: 20px;
+  }
+  
+  .work img {
+    height: 165px;
+    width: 275px;
+    opacity: 0.8;
+  }
+  
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 275px;
+    height: 60px;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 500;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    font-size: 20px;  
+}
